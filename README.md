@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ruslan
 
-<!--
-**RuslanLittlewell/RuslanLittlewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer with a strong frontend focus, based in Gdansk, Poland. Originally from Belarus.
 
-Here are some ideas to get you started:
+I build web applications and have 7 years of experience working across frontend architecture, UI systems, APIs, and product-oriented web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Fullstack Developer, frontend focused
+- 7 years of experience in web development
+- Building modern web applications with React, Angular, Svelte, Astro, Next.js, and SolidJS
+- Interested in clean architecture, scalable frontend systems, and practical developer tooling
+- Based in Gdansk, Poland
+
+## Currently learning
+
+- Golang
+- Vue.js
+- Improving my Node.js skills
+
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Programming languages | JavaScript, PHP, Golang |
+| Web technologies | HTML, CSS, SCSS |
+| Frontend frameworks | React, Angular, Svelte, Astro, Next.js, SolidJS |
+| UI frameworks and libraries | Tailwind CSS, Material UI, Chakra UI, shadcn/ui, Radix, Ant Design, Styled Components |
+| State management | Redux Toolkit, Zustand, Recoil, Effector, Nanostores, RxJS |
+| API and data | REST API, GraphQL, WebSocket, Server-Sent Events, OpenAPI / Swagger, TanStack Query |
+| Build tools | Webpack, Vite |
+| Architecture and approaches | SSR, SSG, SPA, PWA, Feature-Sliced Design, Monolith, Serverless, Microservices |
+| Version control | Git, GitLab, Bitbucket |
+| Other tools | TipTap, HubSpot App, Codex, Claude Code, WordPress, GramJS, Chart.js, DnD Kit |
+
+## Languages
+
+- Russian: Native
+- Belarusian: Advanced
+- Ukrainian: Intermediate
+- English: Intermediate
+- Polish: Intermediate
+- German: Elementary
