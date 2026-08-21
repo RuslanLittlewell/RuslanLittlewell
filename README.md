@@ -26,6 +26,7 @@ I build web applications and have 8 years of experience working across frontend 
 | Programming languages | JavaScript, PHP, Golang |
 | Web technologies | HTML, CSS, SCSS |
 | Frontend frameworks | React, Angular, Svelte, Astro, Next.js, SolidJS |
+| Backend | NodeJS, NestJs |
 | UI frameworks and libraries | Tailwind CSS, Material UI, Chakra UI, shadcn/ui, Radix, Ant Design, Styled Components |
 | State management | Redux Toolkit, Zustand, Recoil, Effector, Nanostores, RxJS |
 | API and data | REST API, GraphQL, WebSocket, Server-Sent Events, OpenAPI / Swagger, TanStack Query |
