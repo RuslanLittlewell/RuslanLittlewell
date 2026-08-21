@@ -2,7 +2,7 @@
 
 Fullstack Developer with a strong frontend focus, based in Gdansk, Poland. Originally from Belarus.
 
-I build web applications and have 7 years of experience working across frontend architecture, UI systems, APIs, and product-oriented web development.
+I build web applications and have 8 years of experience working across frontend architecture, UI systems, APIs, and product-oriented web development.
 
 ## About me
 
@@ -15,6 +15,7 @@ I build web applications and have 7 years of experience working across frontend 
 ## Currently learning
 
 - Golang
+- NestJs
 - Vue.js
 - Improving my Node.js skills
 
