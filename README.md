@@ -39,7 +39,6 @@ I build web applications and have 8 years of experience working across frontend 
 
 - Russian: Native
 - Belarusian: Advanced
-- Ukrainian: Intermediate
 - English: Intermediate
 - Polish: Intermediate
 - German: Elementary
