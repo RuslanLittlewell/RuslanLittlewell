@@ -12,12 +12,6 @@ I build web applications and have 8 years of experience working across frontend 
 - Interested in clean architecture, scalable frontend systems, and practical developer tooling
 - Based in Gdansk, Poland
 
-## Currently learning
-
-- Golang
-- NestJs
-- Vue.js
-- Improving my Node.js skills
 
 ## Tech stack
 
