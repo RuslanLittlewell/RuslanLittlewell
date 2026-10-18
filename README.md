@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Ruslan%20Matusevich&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Senior%20Frontend%20Developer%20%7C%20Full-Stack%20(frontend-focused)&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=8+years+building+production+web+apps;React+%2B+TypeScript+%E2%80%A2+SPA+%26+Micro-frontends;Real-time+apps+%E2%80%94+WebSocket%2C+WebRTC%2C+P2P;Based+in+Gdansk%2C+Poland+%F0%9F%87%B5%F0%9F%87%B1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=8+years+building+production+web+apps;React+%2B+TypeScript+%E2%80%A2+SPA+%26+Micro-frontends;Real-time+apps+%E2%80%94+WebSocket%2C+WebRTC%2C+P2P;Based+in+Gdansk%2C+Poland" alt="Typing animation" />
 </a>
 
 <br />
@@ -17,31 +17,31 @@
 
 ---
 
-## 👋 About me
+##  About me
 
 Senior Frontend Developer with **8 years of commercial experience** building production-scale web applications for enterprise media, healthcare, and B2B clients.
 
-- ⚛️ **Expert in React and TypeScript**, with deep proficiency in state management (Redux Toolkit, Zustand), testing, and debugging complex frontend apps
-- 🧩 Experienced in **SPA and micro-frontend architecture** with Module Federation, plus REST, GraphQL, and WebSocket integration
-- ⚡ Proven expertise in **real-time communication** (WebSocket, WebRTC, P2P) and **UI performance** (Core Web Vitals, responsive design)
-- 🧪 Applies **TDD and spec-driven development (SDD)**; SSR, SSG, and technical SEO
-- 🖥️ Desktop development with **Electron**; backend capability across Node.js, NestJS, Express, and Golang
-- 🤖 Hands-on with AI-assisted engineering tools: **Claude Code** and **OpenAI Codex**
+- **Expert in React and TypeScript**, with deep proficiency in state management (Redux Toolkit, Zustand), testing, and debugging complex frontend apps
+- Experienced in **SPA and micro-frontend architecture** with Module Federation, plus REST, GraphQL, and WebSocket integration
+- Proven expertise in **real-time communication** (WebSocket, WebRTC, P2P) and **UI performance** (Core Web Vitals, responsive design)
+- Applies **TDD and spec-driven development (SDD)**; SSR, SSG, and technical SEO
+- Desktop development with **Electron**; backend capability across Node.js, NestJS, Express, and Golang
+- Hands-on with AI-assisted engineering tools: **Claude Code** and **OpenAI Codex**
 
 ---
 
-## 📊 At a glance
+##  At a glance
 
-| | |
+| ||
 | :--- | :--- |
-| 🗓️ **Commercial experience** | 8 years |
-| 🏢 **Roles** | Freelance, product companies, outsourcing |
-| 🎯 **Focus** | Frontend architecture, UI systems, real-time apps |
-| 🌍 **Location** | Gdansk, Poland (originally from Belarus) |
+| **Commercial experience** | 8 years |
+| **Roles** | Freelance, product companies, outsourcing |
+| **Focus** | Frontend architecture, UI systems, real-time apps |
+| **Location** | Gdansk, Poland (originally from Belarus) |
 
 ---
 
-## 💼 Experience
+##  Experience
 
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ Senior Frontend Developer with **8 years of commercial experience** building pro
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 ### Core
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -152,15 +152,15 @@ Senior Frontend Developer with **8 years of commercial experience** building pro
 
 ---
 
-## 🎓 Education & certifications
+##  Education & certifications
 
-- 🎓 **Bachelor's, Web Design and Programming** · Yanka Kupala State University of Grodno · *2013 — 2016*
-- 📜 **Frontend Development Courses** · IT Academy, Minsk · *2017 — 2018*
-- 🔄 Ongoing: modern frontend frameworks and AI-assisted engineering (Claude Code, OpenAI Codex)
+- **Bachelor's, Web Design and Programming** · Yanka Kupala State University of Grodno · *2013 — 2016*
+- **Frontend Development Courses** · IT Academy, Minsk · *2017 — 2018*
+- Ongoing: modern frontend frameworks and AI-assisted engineering (Claude Code, OpenAI Codex)
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 <img src="https://img.shields.io/badge/Russian-Native-E53935?style=flat-square" alt="Russian: Native" />
 <img src="https://img.shields.io/badge/Belarusian-Advanced-C8102E?style=flat-square" alt="Belarusian: Advanced" />
@@ -172,7 +172,7 @@ Senior Frontend Developer with **8 years of commercial experience** building pro
 
 <div align="center">
 
-### 🤝 Let's build something great
+### Let's build something great
 
 I'm open to **Senior Frontend** roles and interesting product work: complex SPAs, real-time systems, and performance-critical UIs.
 
